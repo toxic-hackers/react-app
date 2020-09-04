@@ -6,7 +6,7 @@
         "@testing-library/react": "^8.0.1",
         "dotenv": "^7.0.0",
         "firebase": "^5.9.4",
-        "node-sass": "^4.11.0",
+        "node-sass": "^4.13.1",
         "proptypes": "^1.1.0",
         "react": "^16.8.5",
         "react-dom": "^16.8.5",
